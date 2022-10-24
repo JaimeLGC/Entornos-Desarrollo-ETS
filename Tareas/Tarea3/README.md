@@ -116,3 +116,5 @@ Hodson, R. Ry’s Git Tutorial. Smashwords (2014)
 - Mostrar la historia del repositorio incluyendo todas las ramas.
 
 ![<>](img/Captura%202.9.png)
+
+No se pudo resolver el conflicto en el fichero bibliografía.
