@@ -1,1 +1,1 @@
-Repositorio dedicado a la asignatura de entornos de desarrollo
+Repositorio dedicado a la asignatura de entornos de desarrollo (ETS)
