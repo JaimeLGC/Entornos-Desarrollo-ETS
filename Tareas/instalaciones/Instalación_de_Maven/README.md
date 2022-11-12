@@ -3,15 +3,16 @@
 ## Índice
 1. [Introducción](#introducción)
 2. [Instalación general](#instalación-general)
-3. [Intstalación de una versión específica](#intstalación-de-una-versión-específica)
+3. [Instalación de una versión específica](#instalación-de-una-versión-específica)
 4. [Comprobación de la versión instalada](#comprobación-de-la-versión-instalada)
+
 ## Introducción
-Apache Maven es una herramienta de codigo abierto usada para lacompresión y publicación de muchos proyectos a la vez para una mejor gestión.
+Apache Maven es una herramienta de código abierto usada para la compresión y publicación de muchos proyectos a la vez para una mejor gestión.
 
 En este documento se repasarán los pasos necesarios para su instalación en un sistema operativo ubuntu.
 
 ## Instalación general
-El primer paso para una instalación correcta es actualizar el índice del paquete e instalar Maven tal y como se muestra en la imágen:
+El primer paso para una instalación correcta es actualizar el índice del paquete e instalar Maven tal y como se muestra en la imagen:
 
 ![<>](img/java-6.png)
 
@@ -19,9 +20,9 @@ Podremos comprobar la instalación con el siguiente comando, si todo ha salido c
 
 ![<>](img/java-7.png)
 
-## Intstalación de una versión específica
+## Instalación de una versión específica
 
-Puede visitar la página de descarga de Maven y comprobar la versión mas nueva. En nuestro caso descargaremos la versión Apache Maven 3.8.6. con el comando mostrado en la imágen:
+Puede visitar la página de descarga de Maven y comprobar la versión más nueva. En nuestro caso descargaremos la versión Apache Maven 3.8.6. con el comando mostrado en la imagen:
 
 ![<>](img/java-8.png)
 
