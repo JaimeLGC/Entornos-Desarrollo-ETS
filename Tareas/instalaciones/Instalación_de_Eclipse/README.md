@@ -3,7 +3,7 @@
 ## Índice
 1. [Introducción](#introducción)
 2. [Instalación](#instalación)
-4. [Ejecución](#ejecución)
+3. [Ejecución](#ejecución)
 
 ## Introducción
 Eclipse es un IDE gratuito para la plataforma Java conocido por permitir a los usuarios desarrollar y probar código escrito en otros lenguajes.

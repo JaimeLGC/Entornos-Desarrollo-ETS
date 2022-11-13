@@ -3,7 +3,7 @@
 ## Índice
 1. [Introducción](#introducción)
 2. [Instalación](#instalación)
-4. [Ejecución](#ejecución)
+3. [Ejecución](#ejecución)
 
 ## Introducción
 NetBeans es un IDE gratuito, multiplataforma y de código abierto usado para el desarrollo de aplicaciones. Este simplifica el desarrollo de aplicaciones que usen plataformas Java y HTML5

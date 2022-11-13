@@ -3,7 +3,7 @@
 ## Índice
 1. [Introducción](#introducción)
 2. [Instalación](#instalación)
-4. [Ejecución](#ejecución)
+3. [Ejecución](#ejecución)
 
 ## Introducción
 EL ide IntelliJ IDEA permite a los usuarios encontrar fácilmente cualquier tipo de bug, código muerto o problema de rendimiento, además de mejorar la estructura del código.
