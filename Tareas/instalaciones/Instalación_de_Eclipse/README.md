@@ -6,12 +6,12 @@
 3. [Ejecución](#ejecución)
 
 ## Introducción
-Eclipse es un IDE gratuito para la plataforma Java conocido por permitir a los usuarios desarrollar y probar código escrito en otros lenguajes.
+Eclipse es un **IDE gratuito** para la plataforma Java conocido por permitir a los usuarios desarrollar y probar código escrito en otros lenguajes.
 
-En este documento repasaremos los pasos necesarios para su instalación en un sistema operativo ubuntu.
+En este documento repasaremos los pasos necesarios para su instalación en un **sistema operativo ubuntu.**
 
 ## Instalación
-Antes de comenzar con la instalación, es importante tener Java instalado en nuestro sistema operativo. Para comprobar que tenemos Java instalado, se utiliza el siguiente comando:
+Antes de comenzar con la instalación, es importante tener **Java** instalado en nuestro sistema operativo. Para comprobar que tenemos Java instalado, se utiliza el siguiente comando:
 
 ![<>](img/version.png)
 
