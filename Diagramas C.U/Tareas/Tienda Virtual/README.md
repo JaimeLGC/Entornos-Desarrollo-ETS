@@ -23,3 +23,31 @@ Un cliente puede o no estar registrado previamente, con lo cual la realización 
 ## Diagrama CU:
 
 ![<>](img/Yienda%20%20Online.png)
+
+| Actor  | Cliente  |   |   |   |
+|---|---|---|---|---|
+| Descripción  | El cliente ha de registrarse, asociar una tarjeta y establecer un límite, una vez hecho eso, obtiene la posibilidad de realizar pedidos. |
+| Características | Una vez registrado, puede poner en marcha todo el proceso de de pedido del producto. |
+| Relaciones  |   |   |   |   |
+| Referencias |   |   |   |   |
+| Notas | El registro es necesario para realizar un pedido |
+| Autor  | Jaime León García |
+
+| Actor  | Sistema de cobro  |   |   |   |
+|---|---|---|---|---|
+| Descripción  | El sistema de cobro se encarga de gestionar las cuentas y comprobar el saldo para efectuar los cobros y permitir la efectuación de pedidos. |
+| Características | Puede aprobar o rechazar la efectuación de un pedido en caso de que el cliente no tenga suficiente saldo |
+| Relaciones  |   |   |   |   |
+| Referencias |   |   |   |   |
+| Notas | |
+| Autor  | Jaime León García |
+
+| Actor  | Reparto  |   |   |   |
+|---|---|---|---|---|
+| Descripción  | El encargado de reparto recibe los pedidos confirmados y efectúa su envío. |
+| Características | Ha de confirmar la entrega una vez esta haya sido realizada |
+| Relaciones  |   |   |   |   |
+| Referencias |   |   |   |   |
+| Notas | Se asume que la confirmación es un paso obligatorio |
+| Autor  | Jaime León García |
+
