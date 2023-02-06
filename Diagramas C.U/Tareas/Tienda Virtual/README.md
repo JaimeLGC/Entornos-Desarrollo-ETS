@@ -25,7 +25,7 @@ Un cliente puede o no estar registrado previamente, con lo cual la realización 
 ![<>](img/Yienda%20%20Online.png)
 
 | Actor  | Cliente |
-|---|---|---|---|---|
+|---|---|
 | Descripción  | El cliente ha de registrarse, asociar una tarjeta y establecer un límite, una vez hecho eso, obtiene la posibilidad de realizar pedidos. |
 | Características | Una vez registrado, puede poner en marcha todo el proceso de de pedido del producto. |
 | Relaciones  |
