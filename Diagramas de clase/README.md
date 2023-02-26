@@ -1,0 +1,1 @@
+Fichero dedicado a los diagramas de clase
